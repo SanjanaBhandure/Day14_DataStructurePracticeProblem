@@ -73,12 +73,10 @@ public class Stack {
             switch (choice) {
                 case 1:
                     stack.push();
-                    stack.display();
                     break;
 
                 case 2:
                     stack.pop();
-                    stack.display();
                     break;
 
                 case 3:

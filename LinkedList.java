@@ -127,7 +127,6 @@ class SinglyLinkedList {
 
                 default:
                     System.out.println("Invalid choice!");
-
             }
         }
     }
